@@ -1,4 +1,4 @@
-# **CE-295 Energy Systems and Control / Data Science for Energy**
+# **Energy Systems and Control / Data Science for Energy**
 
 Welcome to the repository for CE-295. Here, you'll find a collection of projects and resources related to the course.
 
